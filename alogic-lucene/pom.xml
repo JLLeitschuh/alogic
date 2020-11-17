@@ -10,7 +10,7 @@
 	<name>alogic-lucene</name>
 	<description>基于lucene的搜索框架</description>
 	<properties>
-		<lucene.version>5.3.0</lucene.version>
+		<lucene.version>8.7.0</lucene.version>
 	</properties>
 	<dependencies>
 		<dependency>
